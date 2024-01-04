@@ -1,6 +1,6 @@
 import { Search, ShoppingCartOutlined } from '@mui/icons-material'
 import React from 'react'
-import styled from 'styled-components'
+import styled from '@emotion/styled';
 import Badge from '@mui/material/Badge';
 
 const Container = styled.div`
