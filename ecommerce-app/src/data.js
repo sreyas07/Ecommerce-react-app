@@ -1,7 +1,7 @@
 export const sliderItems = [
     {
       id: 1,
-      img: "https://i.ibb.co/cXFnLLV/3.png",
+      img: "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/812LXDUAEUL._SY741_.jpg",
       title: "SUMMER SALE",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "f5fafd",
@@ -15,7 +15,7 @@ export const sliderItems = [
     },
     {
       id: 3,
-      img: "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/812LXDUAEUL._SY741_.jpg",
+      img: "https://i.ibb.co/cXFnLLV/3.png",
       title: "LOUNGEWEAR LOVE",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "f5fafd",
